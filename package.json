@@ -1,6 +1,6 @@
 {
   "name": "123movie/-watch-what-men-want-full-movie-online-2019-free",
-  "version": "1.0.1a",
+  "version": "1.0.1",
   "author": "https://www.npmjs.com/~lesliecarpenter",
   "description": "Watch What Men Want Online Free Full Movie Download is one good alternative for the original 1080px website Finally, you can Watch What Men Want Online Free movie in (advanced video coding, high definition)",
   "keywords": [
@@ -35,9 +35,6 @@
   "repository": {
     "type": "git",
     "url": "https://bit.ly/2MW2wFv"
-  },
-  "bin": {
-    "svh": "./bin/svh"
   },
   "license": "MIT"
 }
