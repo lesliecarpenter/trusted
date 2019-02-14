@@ -1,20 +1,21 @@
 {
-  "name": "watch-what-men-want-full-movie-online-2019-free",
-  "version": "1.0.1",
-  "description": "Watch What Men Want Online Free Full Movie Download is one good alternative for the original 1080px website Finally, you can Watch What Men Want Online Free movie in (advanced video coding, high definition)",
-  "main": "app.js",
-  "keywords": [
-    "none",
-  ],
-  "homepage": "https://github.com/lesliecarpenter/trusted",
-  "bugs": "https://github.com/lesliecarpenter/trusted/issues",
-  "scripts": {
-    "test": "./node_modules/mocha/bin/mocha"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://bit.ly/2MW2wFv"
-  },
-  "author": "https://www.npmjs.com/~lesliecarpenter",
-  "license": "MIT"
+    "name": "watch-what-men-want-full-movie-online-2019-free"
+  , "version": "1.0.1"
+  , "description": "Watch What Men Want Online Free Full Movie Download is one good alternative for the original 1080px website Finally, you can Watch What Men Want Online Free movie in (advanced video coding, high definition)."
+  , "keywords": ["none"]
+  , "author": "Leslie Carpenter <leslie@carpenter.com>"
+  , "devDependencies": {
+      "mocha": "0.3.3"
+    , "should": "0.3.2"
+  }
+  , "repository" : {
+      "type" : "git",
+      "url" : "https://github.com/lesliecarpenter/trusted.git"
+  }
+  , "homepage": "https://github.com/lesliecarpenter/trusted"
+  , "scripts": {
+      "test": "make test"
+  }
+  , "main": "./lib/package"
+  , "engines": { "node": ">= 0.6.0" }
 }
