@@ -8,10 +8,6 @@
       "mocha": "0.3.3"
     , "should": "0.3.2"
   }
-  , "repository" : {
-      "type" : "git",
-      "url" : "https://github.com/lesliecarpenter/trusted.git"
-  }
   , "homepage": "https://github.com/lesliecarpenter/trusted"
   , "scripts": {
       "test": "make test"
